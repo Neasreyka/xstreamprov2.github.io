@@ -1,0 +1,43 @@
+{
+  "player": {
+    "aboutlink": "/",
+    "abouttext": "Powered by delivrjs",
+    "advertising": {
+      "admessage": "The ad will end in xx seconds",
+      "adTag": "https://pubads.g.doubleclick.net/gampad/ads?iu=/21775744923/external/single_ad_samples&sz=640x480&cust_params=sample_ct%3Dlinear&ciu_szs=300x250%2C728x90&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&impl=s&correlator=",
+      "client": "vast",
+      "offset": [
+        "1350",
+        "4050",
+        "50%",
+        "post",
+        "pre"
+      ]
+    },
+    "allowFullscreen": true,
+    "autostart": false,
+    "captions": {
+      "backgroundOpacity": 0,
+      "color": "#FFFF00",
+      "edgeStyle": "uniform",
+      "fontSize": 15
+    },
+    "fuckadblock": false,
+    "height": "100%",
+    "logo": {
+      "file": "https://res.cloudinary.com/webspeedtest/image/fetch/f_auto/https://blogger.googleusercontent.com/img/a/AVvXsEhI8roq06VEZ2jgcRtqicGf3FrGryuWs4Fmmr-vWSfTQqpQc3EW3euv2oZ3i20kptLOEnWGd3NL3bqFLPrk5qOo5_37ZKUO7g_04M2Otc3bUj-HZ_QaXEP75O86BewcBtwfo88mrdi4CXKruqClbxpNtvq0IHR3swtBaanAOhIjq_-DGHFsFSfXZOqPpQ"
+    },
+    "mute": false,
+    "playbackRateControls": true,
+    "preload": "none",
+    "loop": true,
+    "showAD": true,
+    "tracks": {
+      "kind": "captions"
+    },
+    "width": "100%"
+  },
+  "workers": [
+   "https://streampro.fihag47015.workers.dev, https://streampro5.vosodi3559.workers.dev"
+  ]
+}
