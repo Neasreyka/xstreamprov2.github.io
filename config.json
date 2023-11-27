@@ -51,6 +51,6 @@
     ".*"
   ],
   "workers": [
-    "https://api.delivrjs.workers.dev"
+    "https://moviekh.kanika20132021.workers.dev", "https://moviekh2.kanika20132021.workers.dev", "https://moviekh3.kanika20132021.workers.dev"
   ]
 }
