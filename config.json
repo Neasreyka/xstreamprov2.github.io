@@ -4,7 +4,7 @@
     "abouttext": "Powered by delivrjs",
     "advertising": {
       "admessage": "The ad will end in xx seconds",
-      "adTag": "https://vast.yomeno.xyz/?tcid=13114",
+      "adTag": "",
       "client": "vast",
       "offset": [
         "1350",
@@ -15,10 +15,6 @@
       ]
     },
     "allowFullscreen": true,
-    "analytics": {
-      "clarityID": "",
-      "googleID": ""
-    },
     "autostart": false,
     "captions": {
       "backgroundOpacity": 0,
@@ -26,31 +22,22 @@
       "edgeStyle": "uniform",
       "fontSize": 15
     },
-    "customPlayerCSS": false,
     "fuckadblock": false,
     "height": "100%",
     "logo": {
-      "file": "https://res.cloudinary.com/webspeedtest/image/fetch/f_auto/https://blogger.googleusercontent.com/img/a/AVvXsEhI8roq06VEZ2jgcRtqicGf3FrGryuWs4Fmmr-vWSfTQqpQc3EW3euv2oZ3i20kptLOEnWGd3NL3bqFLPrk5qOo5_37ZKUO7g_04M2Otc3bUj-HZ_QaXEP75O86BewcBtwfo88mrdi4CXKruqClbxpNtvq0IHR3swtBaanAOhIjq_-DGHFsFSfXZOqPpQ",
-      "hide": false,
-      "link": "/",
-      "margin": "",
-      "position": "top-right"
+      "file": "https://res.cloudinary.com/webspeedtest/image/fetch/f_auto/https://blogger.googleusercontent.com/img/a/AVvXsEhI8roq06VEZ2jgcRtqicGf3FrGryuWs4Fmmr-vWSfTQqpQc3EW3euv2oZ3i20kptLOEnWGd3NL3bqFLPrk5qOo5_37ZKUO7g_04M2Otc3bUj-HZ_QaXEP75O86BewcBtwfo88mrdi4CXKruqClbxpNtvq0IHR3swtBaanAOhIjq_-DGHFsFSfXZOqPpQ"
     },
     "mute": false,
     "playbackRateControls": true,
-    "playerDownload": true,
     "preload": "none",
-    "repeat": true,
+    "loop": true,
     "showAD": false,
     "tracks": {
       "kind": "captions"
     },
     "width": "100%"
   },
-  "whitelist": [
-    ".*"
-  ],
   "workers": [
-    "https://moviekh.kanika20132021.workers.dev", "https://moviekh2.kanika20132021.workers.dev", "https://moviekh3.kanika20132021.workers.dev"
+    "https://xstreamprotr1.tarunraghav202.workers.dev", "https://xstreamv2.tarunraghav202.workers.dev"
   ]
 }
